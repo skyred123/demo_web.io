@@ -4,8 +4,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=skyred123">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=skyred123&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -13,8 +13,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyred123">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyred123&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -22,8 +22,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=dracula">
+        <a href="https://activity-graph.herokuapp.com/graph?username=skyred123">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=skyred123&theme=dracula">
         </a>
       </td>
     </tr>
